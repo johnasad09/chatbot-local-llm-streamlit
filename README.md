@@ -30,7 +30,7 @@ A high-performance, local-first AI chat interface built with **Python**, **Strea
 
 1.  **Clone the repository:**
     ```cmd
-    git clone [https://github.com/johnasad09/chatbot-local-llm-streamlit.git](https://github.com/johnasad09/chatbot-local-llm-streamlit.git)
+    git clone https://github.com/johnasad09/chatbot-local-llm-streamlit.git
     cd chatbot-local-llm-streamlit
     ```
 
